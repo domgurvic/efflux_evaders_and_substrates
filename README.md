@@ -1,5 +1,5 @@
 # Complete Workflow to generate results of Chapter 5
-## E. coli efflu evaders and substrates - chemical space 
+## E. coli efflux evaders and substrates - chemical space 
 
 
 ```python
