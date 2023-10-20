@@ -1,4 +1,3 @@
-# Complete Workflow to generate results of Chapter 5
 ## E. coli efflux evaders and substrates - chemical space 
 
 
