@@ -33,7 +33,7 @@ from rdkit.DataManip.Metric.rdMetricMatrixCalc import GetTanimotoSimMat, GetTani
 
 efflux_evaders_om_corrected = pd.read_pickle('data_curated/efflux_evaders_om_corrected.pkl')
 efflux_substrates_om_corrected = pd.read_pickle('data_curated/efflux_substrates_om_corrected.pkl')
-inactive = pd.read_pickle('data_curated/new_inactive.pkl')
+inactive = pd.read_pickle('data_curated/new_inactive.pkl') # this file is too big to upload to github, you can get your inactives from the inhibition file
 ```
 
 # Initial set up
