@@ -44,6 +44,7 @@ inactive = pd.read_pickle('data_curated/new_inactive.pkl')
 ```python
 # import master inhibition data
 inhibition = pd.read_csv('data/CO-ADD_InhibitionData_r03_01-02-2020_CSV.csv', low_memory=False)
+# this dataset can be downlaoded from: "https://www.co-add.org/"
 ```
 
 
