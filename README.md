@@ -1,5 +1,10 @@
 ## E. coli efflux evaders and substrates - chemical space 
 
+Workflow relating to these two publications: 
+
+[Data-driven derivation of molecular substructures that enhance drug activity in gram-negative bacteria](https://pubs.acs.org/doi/full/10.1021/acs.jmedchem.1c01984)
+
+[Multidrug efflux in Gram-negative bacteria: structural modifications in active compounds leading to efflux pump avoidance](https://www.nature.com/articles/s44259-024-00023-w)
 
 ```python
 # load conda environment
